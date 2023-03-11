@@ -111,6 +111,6 @@ php artisan storage:link
 <https://nodejs.org/en/download/>
 
 
-if after install you can't run program you need to add path program folder
+if after install you can't run program you need to add path program
 
 <https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path>
