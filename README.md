@@ -23,7 +23,7 @@ what you can improve in this code:
 
 ![ss2](/assets/ss2.png)
 
-## prepare environment
+## step
 
 - install laravel: <https://laravel.com/docs/10.x#your-first-laravel-project>
 
