@@ -26,14 +26,14 @@ what you can improve in this code:
 
 ## structure folder
 
-in this tutorial you need edit the following file or file inside these folder
+in this tutorial you need edit the following:
 
-views: resources/js/Pages
-routes: routes/web.php
-database: database/migrations
-controller: app/Http/Controllers
-model: app/Models
-env: .env
+- views: resources/js/Pages
+- routes: routes/web.php
+- database: database/migrations
+- controller: app/Http/Controllers
+- model: app/Models
+- env: .env
 
 ## step
 
@@ -111,6 +111,6 @@ php artisan storage:link
 <https://nodejs.org/en/download/>
 
 
-if after install you can run program you need to add path program folder
+if after install you can't run program you need to add path program folder
 
 <https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path>
