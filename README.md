@@ -4,7 +4,7 @@ Tutorial based on <https://www.youtube.com/watch?v=cFE4znLLhsg>
 
 the tutorial on youtube used laravel version 8.0, but this source code used laravel 10, so there's have littlebit different.
 
-i created this, for learning purpose at least in here you learn:
+i created this, for learning purpose at least in here we learn:
 
 1. basic laravel with vue
 2. basic crud (create, read, update, delete)
