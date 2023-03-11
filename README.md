@@ -17,6 +17,12 @@ what you can improve in this code:
 3. add filter when upload file so only receive image format
 4. fix when send email password link
 
+## preview
+
+![ss1](/assets/ss1.png)
+
+![ss2](/assets/ss2.png)
+
 ## prepare environment
 
 - install laravel: <https://laravel.com/docs/10.x#your-first-laravel-project>
